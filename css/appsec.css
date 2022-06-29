@@ -1,0 +1,77 @@
+body
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.logo {
+  display: block;
+  text-indent: -9999px;
+  width: 100px;
+  margin-top: -8px;
+ }
+
+.services h2
+{
+	font-weight: normal;
+}
+
+.services .col-lg-4
+{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.services .col-lg-4 p
+{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.appsec-button
+{
+	background-color: #ddeeff;
+}
+
+.appsec-jumbotron
+{
+	background-color: #ddeeff;
+}
+
+.appsec-featurette
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #555;
+	text-align: center;
+	background-color: #fff;
+}
+
+.appsec-featurette-title
+{
+	margin-bottom: 5px;
+	font-size: 30px;
+	font-weight: 400;
+	color: #333
+}
+
+.appsec-featurette p
+{
+	font-size: large;
+}
+
+.appsec-footer
+{
+	padding-top: 0px;
+	padding-bottom: 40px;
+	color: #767676;
+	text-align: right;
+}
+
+.half-rule
+{
+	width: 100px;
+	margin: 40px auto
+}
+
