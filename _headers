@@ -1,3 +1,2 @@
-https://b582aab1.defline.pages.dev/*
+/*
   Content-Security-Policy: default-src 'self' 'sha256-8sQOi2V5E0+PTw5b2zU9dP9TMhX4eBSQT37xtz/ufEM=' 'sha256-e5HjIMnZy+kPN+1rpFzwpwgDH/YoJcKn87pdDhbrzzE=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js https://static.cloudflareinsights.com/beacon.min.js https://call.chatra.io/chatra.js https://static.chatra.io data:; frame-src https://chat.chatra.io/; style-src 'self' 'unsafe-inline' https://static.chatra.io; connect-src https://cloudflareinsights.com https://chat.chatra.io wss://chat.chatra.io/
-  
